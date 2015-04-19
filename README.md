@@ -1,6 +1,6 @@
 # Hubic Linux Configuration
 
-Version used: Linux 2.1.0.53 (deb package)
+Version used: Linux 2.1.0.53 (deb package) on a Raspberry Pi (ARMv6 raspbian 3.12.26+)
 
 Sources:
 
