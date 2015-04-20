@@ -36,3 +36,11 @@ List excludes:
 Remove an exclude:
 
     $ hubic exclude remove /home/pi/hubic/Videos
+
+## Get status
+
+    $ watch -n 1 hubic status
+
+## Link folders to synchronize
+
+    $ ln -s /srv/backups /srv/hubic
